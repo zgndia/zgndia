@@ -14,7 +14,7 @@ Currently building with Python, learning Rust and front-end development.
 
 ## GitHub Stats
 
-![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zgndia&theme=default)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zgndia&theme=city_lights)
 
 ## Featured Projects
 
