@@ -4,7 +4,7 @@ Software developer focused on **systems programming** and **front-end developmen
 Currently building with Python, learning Rust and front-end development.
 
 - 🔭 Working on: [native-inputs](https://github.com/zgndia/native-inputs)
-- 🌱 Learning: Web Development, Rust & systems programming
+- 🌱 Learning: Web Development, Rust (Systems programming)
 
 ## Tech Stack
 
