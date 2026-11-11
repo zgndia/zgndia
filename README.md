@@ -1,6 +1,6 @@
 # Hi, I'm zgndia 👋
 
-Software developer focused on **web platforms** and **developer tools**.  
+Software developer focused on **systems programming** and **front-end development**.  
 Currently building with Python, learning Rust and front-end development.
 
 - 🔭 Working on: [native-inputs](https://github.com/zgndia/native-inputs)
