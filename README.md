@@ -3,7 +3,7 @@
 Software developer focused on **systems programming** and **front-end development**.  
 Currently building with Python, learning Rust and front-end development.
 
-- 🔭 Working on: [native-inputs](https://github.com/zgndia/native-inputs)
+- 🔭 Working on: [rust-prime-calculations](https://github.com/zgndia/rust-prime-calculations)
 - 🌱 Learning: Web Development, Rust (Systems programming)
 
 ## Tech Stack
